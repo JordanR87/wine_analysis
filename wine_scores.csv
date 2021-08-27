@@ -1,0 +1,188 @@
+vintage,location_name,color,maturity,type,variety,critic_fullname,score,drink_year_min,drink_year_max,score_date,lwin,lwin_11
+2001,Saint-Émilion,Red,Mature,Table,Proprietary Blend,"Robert M. Parker, Jr.",97,2015,2030,27/08/2015,1006045,10060452001
+2002,Saint-Émilion,Red,Old,Table,Proprietary Blend,"Robert M. Parker, Jr.",91,2005,2020,28/04/2005,1006045,10060452002
+2003,Saint-Émilion,Red,Mature,Table,Proprietary Blend,"Robert M. Parker, Jr.",98,2015,2025,27/08/2015,1006045,10060452003
+2004,Saint-Émilion,Red,Late,Table,Proprietary Blend,"Robert M. Parker, Jr.",95,2009,2022,28/06/2007,1006045,10060452004
+2005,Saint-Émilion,Red,Early,Table,Proprietary Blend,"Robert M. Parker, Jr.",100,2015,2050,27/08/2015,1006045,10060452005
+2006,Saint-Émilion,Red,Early,Table,Proprietary Blend,Neal Martin,94,2018,2032,29/05/2016,1006045,10060452006
+2007,Saint-Émilion,Red,Early,Table,Proprietary Blend,Neal Martin,92,2017,2030,30/06/2017,1006045,10060452007
+2008,Saint-Émilion,Red,Mature,Table,Proprietary Blend,"Robert M. Parker, Jr.",93,2015,2030,27/08/2015,1006045,10060452008
+2009,Saint-Émilion,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,99,2019,2055,14/03/2019,1006045,10060452009
+2010,Saint-Émilion,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,99,2023,2063,22/10/2020,1006045,10060452010
+2011,Saint-Émilion,Red,Mature,Table,Proprietary Blend,"Robert M. Parker, Jr.",94,2014,2029,29/04/2014,1006045,10060452011
+2012,Saint-Émilion,Red,Young,Table,Proprietary Blend,Neal Martin,94,2022,2050,28/02/2017,1006045,10060452012
+2013,Saint-Émilion,Red,Mature,Table,Proprietary Blend,"Robert M. Parker, Jr.",91.5,2014,2024,27/08/2014,1006045,10060452013
+2014,Saint-Émilion,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,94,2020,2045,22/10/2020,1006045,10060452014
+2015,Saint-Émilion,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,97,2023,2050,22/10/2020,1006045,10060452015
+2016,Saint-Émilion,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,98,2024,2065,22/10/2020,1006045,10060452016
+2017,Saint-Émilion,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,95,2021,2045,15/10/2020,1006045,10060452017
+2018,Saint-Émilion,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,97,2026,2046,31/03/2021,1006045,10060452018
+2019,Saint-Émilion,Red,NULL,Table,Proprietary Blend,Lisa Perrotti-Brown,98,NULL,NULL,10/06/2020,1006045,10060452019
+2020,Saint-Émilion,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,99,2027,2062,20/05/2021,1006045,10060452020
+2001,Barbaresco,Red,Late,Table,Nebbiolo,Antonio Galloni,93,2012,2021,25/04/2012,1099605,10996052001
+2003,Barbaresco,Red,Late,Table,Nebbiolo,Antonio Galloni,93,2009,2021,30/10/2006,1099605,10996052003
+2004,Barbaresco,Red,Late,Table,Nebbiolo,Antonio Galloni,93,2009,2024,30/10/2007,1099605,10996052004
+2005,Barbaresco,Red,Mature,Table,Nebbiolo,Antonio Galloni,94,2015,2030,29/10/2008,1099605,10996052005
+2006,Barbaresco,Red,Mature,Table,Nebbiolo,Antonio Galloni,93,2016,2026,30/10/2009,1099605,10996052006
+2007,Barbaresco,Red,Early,Table,Nebbiolo,Antonio Galloni,94,2017,2032,26/02/2010,1099605,10996052007
+2008,Barbaresco,Red,Mature,Table,Nebbiolo,Antonio Galloni,93,2014,2028,30/10/2011,1099605,10996052008
+2009,Barbaresco,Red,Early,Table,Nebbiolo,Antonio Galloni,93,2017,2029,30/10/2012,1099605,10996052009
+2010,Barbaresco,Red,Early,Table,Nebbiolo,Monica Larner,94,2018,2028,27/06/2013,1099605,10996052010
+2011,Barbaresco,Red,Early,Table,Nebbiolo,Monica Larner,93,2017,2035,25/06/2014,1099605,10996052011
+2012,Barbaresco,Red,Early,Table,Nebbiolo,Monica Larner,91,2017,2032,28/06/2015,1099605,10996052012
+2013,Barbaresco,Red,Early,Table,Nebbiolo,Monica Larner,93,2018,2040,29/06/2016,1099605,10996052013
+2014,Barbaresco,Red,Early,Table,Nebbiolo,Monica Larner,94,2018,2030,30/06/2017,1099605,10996052014
+2015,Barbaresco,Red,Early,Table,Nebbiolo,Monica Larner,93,2020,2040,29/06/2018,1099605,10996052015
+2016,Barbaresco,Red,Young,Table,Nebbiolo,Monica Larner,96,2022,2045,28/06/2019,1099605,10996052016
+2017,Barbaresco,Red,Young,Table,Nebbiolo,Monica Larner,95,2023,2045,23/07/2020,1099605,10996052017
+2001,Pauillac,Red,Old,Table,Proprietary Blend,"Robert M. Parker, Jr.",87,2007,2014,29/06/2004,1006322,10063222001
+2002,Pauillac,Red,Old,Table,Proprietary Blend,"Robert M. Parker, Jr.",86,2005,2013,28/04/2005,1006322,10063222002
+2003,Pauillac,Red,Early,Table,Proprietary Blend,Neal Martin,91,2016,2031,30/06/2017,1006322,10063222003
+2004,Pauillac,Red,Late,Table,Proprietary Blend,"Robert M. Parker, Jr.",90,2009,2025,28/06/2007,1006322,10063222004
+2005,Pauillac,Red,Early,Table,Proprietary Blend,Neal Martin,93,2018,2045,30/06/2017,1006322,10063222005
+2006,Pauillac,Red,Early,Table,Proprietary Blend,Neal Martin,91,2019,2035,29/05/2016,1006322,10063222006
+2007,Pauillac,Red,Early,Table,Proprietary Blend,Neal Martin,90,2017,2030,30/06/2017,1006322,10063222007
+2008,Pauillac,Red,Mature,Table,Proprietary Blend,"Robert M. Parker, Jr.",90,2013,2028,01/05/2011,1006322,10063222008
+2009,Pauillac,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,89,2019,2027,14/03/2019,1006322,10063222009
+2010,Pauillac,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,90,2020,2033,05/03/2020,1006322,10063222010
+2011,Pauillac,Red,Early,Table,Proprietary Blend,"Robert M. Parker, Jr.",91,2017,2037,29/04/2014,1006322,10063222011
+2012,Pauillac,Red,Early,Table,Proprietary Blend,"Robert M. Parker, Jr.",92,2015,2040,29/04/2015,1006322,10063222012
+2013,Pauillac,Red,Mature,Table,Proprietary Blend,Neal Martin,90,2017,2027,28/10/2016,1006322,10063222013
+2014,Pauillac,Red,Young,Table,Proprietary Blend,Neal Martin,91,2022,2045,31/03/2017,1006322,10063222014
+2015,Pauillac,Red,Young,Table,Proprietary Blend,Neal Martin,94,2022,2050,27/04/2016,1006322,10063222015
+2016,Pauillac,Red,Young,Table,Proprietary Blend,Neal Martin,94,2022,2050,28/04/2017,1006322,10063222016
+2017,Pauillac,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,92,2021,2037,16/03/2020,1006322,10063222017
+2018,Pauillac,Red,NULL,Table,Proprietary Blend,Lisa Perrotti-Brown,93,NULL,NULL,23/04/2019,1006322,10063222018
+2019,Pauillac,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,94,2025,2050,09/07/2020,1006322,10063222019
+2020,Pauillac,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,90,2024,2037,20/05/2021,1006322,10063222020
+2001,Saint-Estephe,Red,Old,Table,Proprietary Blend,"Robert M. Parker, Jr.",90,2008,2019,29/06/2004,1007475,10074752001
+2002,Saint-Estephe,Red,Old,Table,Proprietary Blend,"Robert M. Parker, Jr.",89,2008,2017,28/04/2005,1007475,10074752002
+2003,Saint-Estephe,Red,Mature,Table,Proprietary Blend,"Robert M. Parker, Jr.",93,2014,2029,27/08/2014,1007475,10074752003
+2004,Saint-Estephe,Red,Old,Table,Proprietary Blend,"Robert M. Parker, Jr.",89,2007,2018,28/06/2007,1007475,10074752004
+2005,Saint-Estephe,Red,Early,Table,Proprietary Blend,Neal Martin,94,2020,2050,28/10/2016,1007475,10074752005
+2006,Saint-Estephe,Red,Young,Table,Proprietary Blend,Neal Martin,93,2022,2040,29/05/2016,1007475,10074752006
+2007,Saint-Estephe,Red,Mature,Table,Proprietary Blend,Neal Martin,87,2017,2026,30/06/2017,1007475,10074752007
+2008,Saint-Estephe,Red,Early,Table,Proprietary Blend,Neal Martin,93,2018,2035,28/10/2016,1007475,10074752008
+2009,Saint-Estephe,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,96,2020,2049,14/03/2019,1007475,10074752009
+2010,Saint-Estephe,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,89,2020,2032,05/03/2020,1007475,10074752010
+2011,Saint-Estephe,Red,Early,Table,Proprietary Blend,"Robert M. Parker, Jr.",90,2017,2032,29/04/2014,1007475,10074752011
+2012,Saint-Estephe,Red,Early,Table,Proprietary Blend,"Robert M. Parker, Jr.",91,2015,2035,29/04/2015,1007475,10074752012
+2013,Saint-Estephe,Red,Early,Table,Proprietary Blend,Neal Martin,91,2018,2032,28/10/2016,1007475,10074752013
+2014,Saint-Estephe,Red,Early,Table,Proprietary Blend,Neal Martin,92,2021,2045,31/03/2017,1007475,10074752014
+2015,Saint-Estephe,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,93,2020,2042,21/02/2018,1007475,10074752015
+2016,Saint-Estephe,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,96,2021,2045,30/11/2018,1007475,10074752016
+2017,Saint-Estephe,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,95,2022,2047,16/03/2020,1007475,10074752017
+2018,Saint-Estephe,Red,NULL,Table,Proprietary Blend,Lisa Perrotti-Brown,97,NULL,NULL,23/04/2019,1007475,10074752018
+2019,Saint-Estephe,Red,NULL,Table,Proprietary Blend,Lisa Perrotti-Brown,96,NULL,NULL,18/06/2020,1007475,10074752019
+2020,Saint-Estephe,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,96,2026,2060,20/05/2021,1007475,10074752020
+2001,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,91,2018,2033,30/03/2016,1049020,10490202001
+2002,Cote de Nuits,Red,Mature,Table,Pinot Noir,Neal Martin,89,2016,2026,30/03/2016,1049020,10490202002
+2003,Cote de Nuits,Red,Late,Table,Pinot Noir,Neal Martin,86,2016,2021,30/03/2016,1049020,10490202003
+2004,Cote de Nuits,Red,Old,Table,Pinot Noir,Neal Martin,82,2016,2017,30/03/2016,1049020,10490202004
+2005,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,93,2018,2035,30/03/2016,1049020,10490202005
+2006,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,91,2019,2035,30/03/2016,1049020,10490202006
+2007,Cote de Nuits,Red,Late,Table,Pinot Noir,Neal Martin,90,2016,2021,30/03/2016,1049020,10490202007
+2008,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,94,2020,2040,30/03/2016,1049020,10490202008
+2009,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,95,2019,2040,30/03/2016,1049020,10490202009
+2010,Cote de Nuits,Red,Young,Table,Pinot Noir,Neal Martin,96,2022,2045,30/03/2016,1049020,10490202010
+2011,Cote de Nuits,Red,NULL,Table,Pinot Noir,Neal Martin,94,NULL,NULL,26/02/2014,1049020,10490202011
+2012,Cote de Nuits,Red,Young,Table,Pinot Noir,Neal Martin,96,2022,2045,30/03/2016,1049020,10490202012
+2013,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,96,2020,2045,29/12/2014,1049020,10490202013
+2014,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,96,2020,2045,30/12/2015,1049020,10490202014
+2015,Cote de Nuits,Red,Young,Table,Pinot Noir,Neal Martin,96,2025,2050,30/12/2016,1049020,10490202015
+2016,Cote de Nuits,Red,Young,Table,Pinot Noir,Neal Martin,95,2022,2045,29/12/2017,1049020,10490202016
+2017,Cote de Nuits,Red,NULL,Table,Pinot Noir,William Kelley,94,NULL,NULL,04/01/2019,1049020,10490202017
+2018,Cote de Nuits,Red,NULL,Table,Pinot Noir,William Kelley,96,NULL,NULL,09/01/2020,1049020,10490202018
+2013,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,95,2019,2039,28/01/2016,1049642,10496422013
+2014,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,95,2018,2040,30/12/2015,1049642,10496422014
+2001,Cote de Nuits,Red,Mature,Table,Pinot Noir,William Kelley,88,2018,2025,28/02/2018,1049642,10496422001
+2002,Cote de Nuits,Red,Early,Table,Pinot Noir,William Kelley,95,2018,2033,31/01/2018,1049642,10496422002
+2003,Cote de Nuits,Red,Old,Table,Pinot Noir,Pierre Rovani,95,2005,2015,28/08/2005,1049642,10496422003
+2005,Cote de Nuits,Red,NULL,Table,Pinot Noir,David Schildknecht,94,NULL,NULL,29/04/2007,1049642,10496422005
+2006,Cote de Nuits,Red,Late,Table,Pinot Noir,David Schildknecht,93.5,2009,2024,21/12/2009,1049642,10496422006
+2007,Cote de Nuits,Red,Old,Table,Pinot Noir,David Schildknecht,92,2010,2020,28/06/2010,1049642,10496422007
+2008,Cote de Nuits,Red,Early,Table,Pinot Noir,Antonio Galloni,95,2018,2038,01/05/2011,1049642,10496422008
+2009,Cote de Nuits,Red,Early,Table,Pinot Noir,Antonio Galloni,96,2019,2039,25/04/2012,1049642,10496422009
+2010,Cote de Nuits,Red,Early,Table,Pinot Noir,Antonio Galloni,95,2020,2040,22/12/2011,1049642,10496422010
+2011,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,92,2016,2035,29/11/2014,1049642,10496422011
+2012,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,93,2018,2040,29/10/2015,1049642,10496422012
+2013,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,96,2019,2045,30/11/2016,1049642,10496422013
+2014,Cote de Nuits,Red,Early,Table,Pinot Noir,Neal Martin,95,2020,2045,30/12/2016,1049642,10496422014
+2015,Cote de Nuits,Red,Young,Table,Pinot Noir,William Kelley,95,2023,2045,31/10/2018,1049642,10496422015
+2016,Cote de Nuits,Red,Young,Table,Pinot Noir,Neal Martin,95,2022,2045,29/12/2017,1049642,10496422016
+2017,Cote de Nuits,Red,Young,Table,Pinot Noir,William Kelley,95,2027,2050,09/01/2020,1049642,10496422017
+2018,Cote de Nuits,Red,Young,Table,Pinot Noir,William Kelley,95,2028,2065,14/01/2021,1049642,10496422018
+2019,Cote de Nuits,Red,NULL,Table,Pinot Noir,William Kelley,96,NULL,NULL,14/01/2021,1049642,10496422019
+2001,Margaux,Red,Early,Table,Proprietary Blend,Neal Martin,94,2018,2045,28/10/2016,1012781,10127812001
+2002,Margaux,Red,Mature,Table,Proprietary Blend,"Robert M. Parker, Jr.",93,2010,2030,28/04/2005,1012781,10127812002
+2003,Margaux,Red,Mature,Table,Proprietary Blend,Neal Martin,93,2017,2027,28/02/2017,1012781,10127812003
+2004,Margaux,Red,Early,Table,Proprietary Blend,Neal Martin,94,2020,2050,28/02/2017,1012781,10127812004
+2005,Margaux,Red,Early,Table,Proprietary Blend,"Robert M. Parker, Jr.",98,2020,2050,28/06/2015,1012781,10127812005
+2006,Margaux,Red,Mature,Table,Proprietary Blend,Neal Martin,94,2016,2030,29/05/2016,1012781,10127812006
+2007,Margaux,Red,Early,Table,Proprietary Blend,Neal Martin,92,2017,2035,30/06/2017,1012781,10127812007
+2008,Margaux,Red,Early,Table,Proprietary Blend,"Robert M. Parker, Jr.",94,2011,2041,01/05/2011,1012781,10127812008
+2009,Margaux,Red,Early,Table,Proprietary Blend,Lisa Perrotti-Brown,98,2020,2050,14/03/2019,1012781,10127812009
+2010,Margaux,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,98,2023,2060,05/03/2020,1012781,10127812010
+2011,Margaux,Red,Mature,Table,Proprietary Blend,"Robert M. Parker, Jr.",93,2014,2034,29/04/2014,1012781,10127812011
+2012,Margaux,Red,Young,Table,Proprietary Blend,Neal Martin,96,2022,2050,28/10/2016,1012781,10127812012
+2013,Margaux,Red,Early,Table,Proprietary Blend,Neal Martin,91,2018,2032,28/10/2016,1012781,10127812013
+2014,Margaux,Red,Young,Table,Proprietary Blend,Neal Martin,95,2024,2050,31/03/2017,1012781,10127812014
+2015,Margaux,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,99,2023,2050,21/02/2018,1012781,10127812015
+2016,Margaux,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,99,2024,2063,30/11/2018,1012781,10127812016
+2017,Margaux,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,98,2024,2060,16/03/2020,1012781,10127812017
+2018,Margaux,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,100,2027,2067,31/03/2021,1012781,10127812018
+2019,Margaux,Red,NULL,Table,Proprietary Blend,Lisa Perrotti-Brown,98.5,NULL,NULL,18/06/2020,1012781,10127812019
+2020,Margaux,Red,Young,Table,Proprietary Blend,Lisa Perrotti-Brown,98,2028,2068,20/05/2021,1012781,10127812020
+2001,Cote de Beaune,White,Mature,Table,Chardonnay,William Kelley,94,2011,2030,31/07/2019,1073401,10734012001
+2002,Cote de Beaune,White,Mature,Table,Chardonnay,William Kelley,95,2012,2030,31/07/2019,1073401,10734012002
+2003,Cote de Beaune,White,Early,Table,Chardonnay,William Kelley,92,2013,2045,31/07/2019,1073401,10734012003
+2004,Cote de Beaune,White,Mature,Table,Chardonnay,William Kelley,93,2014,2030,31/07/2019,1073401,10734012004
+2005,Cote de Beaune,White,Early,Table,Chardonnay,William Kelley,97,2015,2035,31/07/2019,1073401,10734012005
+2006,Cote de Beaune,White,Old,Table,Chardonnay,William Kelley,55,2008,2012,30/04/2021,1073401,10734012006
+2007,Cote de Beaune,White,Early,Table,Chardonnay,William Kelley,96,2020,2037,31/07/2019,1073401,10734012007
+2008,Cote de Beaune,White,Mature,Table,Chardonnay,William Kelley,94,2018,2025,30/04/2021,1073401,10734012008
+2009,Cote de Beaune,White,Early,Table,Chardonnay,William Kelley,94,2019,2035,31/07/2019,1073401,10734012009
+2010,Cote de Beaune,White,Old,Table,Chardonnay,Antonio Galloni,95,2020,NULL,30/08/2012,1073401,10734012010
+2011,Cote de Beaune,White,Early,Table,Chardonnay,William Kelley,95,2018,2033,31/07/2019,1073401,10734012011
+2012,Cote de Beaune,White,Young,Table,Chardonnay,William Kelley,95,2022,2040,31/07/2019,1073401,10734012012
+2013,Cote de Beaune,White,Early,Table,Chardonnay,Neal Martin,95,2018,2035,30/11/2016,1073401,10734012013
+2014,Cote de Beaune,White,Early,Table,Chardonnay,Neal Martin,97,2020,2045,31/10/2017,1073401,10734012014
+2015,Cote de Beaune,White,Early,Table,Chardonnay,William Kelley,97,2020,2040,28/02/2018,1073401,10734012015
+2016,Cote de Beaune,White,Early,Table,Chardonnay,Neal Martin,93,2021,2036,29/12/2017,1073401,10734012016
+2017,Cote de Beaune,White,NULL,Table,Chardonnay,William Kelley,96,NULL,NULL,04/01/2019,1073401,10734012017
+2018,Cote de Beaune,White,Young,Table,Chardonnay,William Kelley,96,2028,2048,14/01/2021,1073401,10734012018
+2001,Toscana,Red,Late,Table,Proprietary Blend,Daniel Thomases,97,2005,2025,25/04/2004,1105807,11058072001
+2002,Toscana,Red,Old,Table,Proprietary Blend,Daniel Thomases,92,2006,2020,23/04/2006,1105807,11058072002
+2003,Toscana,Red,Old,Table,Proprietary Blend,Antonio Galloni,91,2007,2013,27/02/2007,1105807,11058072003
+2004,Toscana,Red,Old,Table,Proprietary Blend,Antonio Galloni,93,2008,2016,27/02/2007,1105807,11058072004
+2005,Toscana,Red,Late,Table,Proprietary Blend,Antonio Galloni,92,2010,2022,29/06/2008,1105807,11058072005
+2006,Toscana,Red,Mature,Table,Proprietary Blend,Antonio Galloni,96,2014,2026,30/08/2009,1105807,11058072006
+2007,Toscana,Red,Mature,Table,Proprietary Blend,Antonio Galloni,95,2017,2027,30/10/2010,1105807,11058072007
+2008,Toscana,Red,Mature,Table,Proprietary Blend,Antonio Galloni,94,2016,2028,30/08/2011,1105807,11058072008
+2009,Toscana,Red,Mature,Table,Proprietary Blend,Antonio Galloni,94,2014,2024,29/06/2012,1105807,11058072009
+2010,Toscana,Red,Mature,Table,Proprietary Blend,Monica Larner,94,2015,2030,28/08/2013,1105807,11058072010
+2011,Toscana,Red,Mature,Table,Proprietary Blend,Monica Larner,94,2015,2028,28/08/2013,1105807,11058072011
+2012,Toscana,Red,Mature,Table,Proprietary Blend,Monica Larner,93,2015,2025,29/09/2015,1105807,11058072012
+2013,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,98,2017,2030,31/01/2017,1105807,11058072013
+2014,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,94,2018,2028,28/04/2017,1105807,11058072014
+2015,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,96,2018,2032,30/11/2017,1105807,11058072015
+2016,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,97,2020,2040,31/05/2019,1105807,11058072016
+2017,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,96,2020,2040,30/08/2019,1105807,11058072017
+2018,Toscana,Red,Young,Table,Proprietary Blend,Monica Larner,96,2022,2040,14/01/2021,1105807,11058072018
+2001,Toscana,Red,Late,Table,Proprietary Blend,Daniel Thomases,93,2006,2021,23/04/2006,1095391,10953912001
+2003,Toscana,Red,Old,Table,Proprietary Blend,Antonio Galloni,92,2007,2018,28/06/2007,1095391,10953912003
+2004,Toscana,Red,Old,Table,Proprietary Blend,Antonio Galloni,93,2009,2019,28/06/2007,1095391,10953912004
+2005,Toscana,Red,Old,Table,Proprietary Blend,Antonio Galloni,92,2010,2020,29/06/2008,1095391,10953912005
+2006,Toscana,Red,Mature,Table,Proprietary Blend,Antonio Galloni,92,2014,2024,30/08/2009,1095391,10953912006
+2007,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,95,2015,2035,29/10/2015,1095391,10953912007
+2008,Toscana,Red,Mature,Table,Proprietary Blend,Antonio Galloni,94,2014,2024,30/08/2011,1095391,10953912008
+2009,Toscana,Red,Early,Table,Proprietary Blend,Antonio Galloni,94,2017,2029,29/06/2012,1095391,10953912009
+2010,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,94,2016,2035,28/08/2013,1095391,10953912010
+2011,Toscana,Red,Mature,Table,Proprietary Blend,Monica Larner,93,2015,2027,30/10/2014,1095391,10953912011
+2012,Toscana,Red,Mature,Table,Proprietary Blend,Monica Larner,93,2016,2030,29/10/2015,1095391,10953912012
+2013,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,96,2018,2035,30/12/2016,1095391,10953912013
+2014,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,93,2018,2028,28/04/2017,1095391,10953912014
+2015,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,96,2019,2040,06/09/2018,1095391,10953912015
+2016,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,97,2020,2045,31/05/2019,1095391,10953912016
+2017,Toscana,Red,Early,Table,Proprietary Blend,Monica Larner,96,2021,2040,04/06/2020,1095391,10953912017
+2018,Toscana,Red,Young,Table,Proprietary Blend,Monica Larner,98,2023,2045,06/05/2021,1095391,10953912018
